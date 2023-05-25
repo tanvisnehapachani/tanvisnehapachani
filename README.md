@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanvi
 - 👀 I’m interested in competitive coding and development
-- 🌱 I’m currently learning Java, machine learning and web development
+- 🌱 I’m currently learning C++, Java, machine learning and web development
 
 - 📫 How to reach me https://www.linkedin.com/in/tanvi-sneha-pachani-86801222a/
 
